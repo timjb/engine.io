@@ -1,0 +1,13 @@
+resolver: lts-5.18
+packages:
+- examples/binary/
+- examples/chat/
+- engine-io/
+- engine-io-snap/
+- engine-io-wai/
+- engine-io-yesod/
+- examples/latency/
+- socket-io/
+extra-deps:
+- snap-cors-1.2.9
+- text-1.2.2.1

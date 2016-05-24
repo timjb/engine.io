@@ -6,3 +6,4 @@
 *.prof
 *.ps
 dist
+.stack-work
